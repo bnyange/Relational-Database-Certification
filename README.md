@@ -47,15 +47,15 @@ The course is divided into several sections, each focusing on different aspects 
 
 This repository includes the following projects:
 
-1. **Project 1: Celestial Bodies Database**
+1. **Celestial Bodies Database**
    (build a database of celestial bodies using PostgreSQL.
-2. **Project 2: World Cup Database**
+2. **World Cup Database**
    (create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.)
-3. **Project 3: Salon Appointment Scheduler**
+3. **Salon Appointment Scheduler**
   ( create an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.)
-5. **Project 4: Periodic Table Database**
+5. **Periodic Table Database**
    (create a Bash script to get information about chemical elements from a periodic table database.)
-6. **Project 5: Number Guessing Game**
+6. **Number Guessing Game**
     (using Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.)
 
 
