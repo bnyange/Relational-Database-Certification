@@ -1,6 +1,42 @@
 # Relational-Database-Certification
 This is where you will find all my code related to Free Code Camp's Relational Database Certification 
 
+This repository is organized by the lessons and projects covered in the course.
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Courses](#course-structure)
+3. [Projects](#projects)
+
+## Introduction
+
+This repository contains all my code used in the FreeCodeCamp Relational Database Certification course. The course covers various topics related to relational databases, SQL, PostgreSQL and database design.
+
+
+## Course Structure
+
+The course is divided into several sections, each focusing on different aspects of relational databases:
+
+ ### Learn Bash by Building a Boilerplate** 170 lesson 
+2. **Learn Relational Databases by Building a Mario Database** 165 lesson 
+3. **Learn Bash Scripting by Building Five Programs** 222 lesson 
+4. **Learn SQL by Building a Student Database: Part 1** 140 lesson 
+5. **Learn SQL by Building a Student Database: Part 2** 140 lesson 
+6. **Learn Advanced Bash by Building a Kitty Ipsum Translator**	140 lesson 
+7. **Learn Bash and SQL by Building a Bike Rental Shop** 210 lesson 
+8. **Learn Nano by Building a Castle** 40 lesson 
+9. **Learn Git by Building an SQL Reference Object** 240 lesson
+
+## Projects
+
+This repository includes the following projects:
+
+1. **Project 1: Celestial Bodies Database**
+2. **Project 2: World Cup Database**
+3. **Project 3: Salon Appointment Scheduler**
+4. **Project 4: Periodic Table Database**
+5. **Project 5: Number Guessing Game**
+
 
 Learn Bash by Building a Boilerplate
 The terminal allows you to send text commands to your computer that can manipulate the file system, run programs, automate tasks, and much more.
